@@ -12,3 +12,7 @@ Materials for the course on Big Data in Astronomy (ADA Master Program).
 - Within the third lecture, find instructions for Homework3.
 
 - Final project description is in folder Project.
+
+Deadline to submit the Homeworks and Project report: December 23, 2023.
+
+Final exam: Thursday, December 28, 2023
