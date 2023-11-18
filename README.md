@@ -7,9 +7,9 @@ Materials for the course on Big Data in Astronomy (ADA Master Program).
   
 - Note that Tutorial 1 has no file "nlr_cross.csv", due to its size larger than 25Mb.
   
-- Whitin Tutorial 1, please find description of Homework2.
+- Whitin Tutorial 1, please find description of Homework2 (visualisation of 100k point based on https://stackoverflow.com/questions/20105364/how-can-i-make-a-scatter-plot-colored-by-density).
   
-- For Homework3 run the PhotoRM notebook (see the third lecture for details).
+- For Homework3, download and execute the PhotoRM notebook (see the third lecture for link and details).
 
 - Final project description is in folder Project.
 
