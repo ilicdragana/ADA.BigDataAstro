@@ -9,7 +9,7 @@ Materials for the course on Big Data in Astronomy (ADA Master Program).
   
 - Whitin Tutorial 1, please find description of Homework2.
   
-- Within the third lecture, find instructions for Homework3.
+- For Homework3 run the PhotoRM notebook (see the third lecture for details).
 
 - Final project description is in folder Project.
 
